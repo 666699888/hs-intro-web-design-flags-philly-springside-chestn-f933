@@ -45,9 +45,36 @@ h3 {
 }
 
 /* Germany */
-
+#box3 {height: 100px;
+  width: 800px;
+  background-color: black;
+}
+#box4 {height: 100px;
+  width: 800px;
+  background-color: red;
+}
+#box5 {height: 100px;
+  width: 800px;
+  background-color: yellow;
+}
 
 /* Lithuania */
+#box6 {height: 100px;
+  width: 800px;
+  background color: yellow;
+}
+
+#box7 {height: 100px;
+  width: 800px;
+  background color: green;
+}
+
+#box8 {height: 100px;
+  width: 800px;
+  background color: red;
+}
+
+
 
 /* Yemen */
 
@@ -67,7 +94,7 @@ h3 {
 
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
 
