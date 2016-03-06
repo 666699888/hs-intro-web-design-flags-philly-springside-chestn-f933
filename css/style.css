@@ -59,45 +59,234 @@ h3 {
 }
 
 /* Lithuania */
-#box6 {height: 100px;
-  width: 800px;
-  background color: yellow;
+#lithuania1 {height: 100px;
+width: 800px;
+background-color: yellow;
 }
 
-#box7 {height: 100px;
-  width: 800px;
-  background color: green;
+#lithuania2 {height: 100px;
+width: 800px;
+background-color: green;
 }
 
-#box8 {height: 100px;
-  width: 800px;
-  background color: red;
+#lithuania3 {height: 100px;
+width: 800px;
+background-color: red;
 }
-
-
-
 /* Yemen */
+#yemen{ background-color: white;
+  padding-bottom:0px;position:relative
+}
+#Yemen1{height: 100px;
+width: 800px;
+background-color: red;
+}
+
+#Yemen2{height: 100px;
+width:800px;
+background-color: black;
+position:absolute;bottom:0px;margin-bottom:30px;
+}
 
 /* The Gambia */
+#gambia{padding-bottom:90px;position:relative}
+#gambia1 {height: 100px;
+width: 800px;
+background-color: red}
 
+#gambia2 {height: 85px;
+width: 800px;
+background-color: blue;
+  position:absolute;bottom:0px;margin-bottom:230px
+}
+
+#gambia3 {height: 100px;
+width: 800px;
+background-color: green;
+  position:absolute;bottom:0px;margin-bottom:100px
+}
 /* Yemen */
 
 /* The Gambia */
 
 /* Chad */
 
+#chad{padding-bottom:90px;position:relative}
+#chad1 {
+  height: 350px;
+  width: 200px;
+  background-color: blue;
+  float:left;
+  position:absolute;bottom:90px;margin-left:0px
+}
+#chad2 {
+  height: 350px;
+  width: 200px;
+  background-color:yellow;
+ position:absolute;bottom:90px;margin-left:200px
+}
+#chad3 {
+  height: 350px;
+  width: 200px;
+  background-color: red;
+  float:left;
+  position:absolute;bottom:90px;margin-left:400px
+}
+
+
+
+
+
 /* France */
+#france {padding-bottom:90px;position:relative}
+#f1 {
+  height: 350px;
+  width: 200px;
+  background-color: blue;
+  float:left;
+  position:absolute;bottom:90px;margin-left:0px
+}
+
+#f2 {
+  height: 350px;
+  width: 200px;
+  background-color: red;
+  float:left;
+  position:absolute;bottom:90px;margin-left:400px
+}
+
 
 /* Benin */
+#benin {padding-bottom:90px;position:relative}
+#benin1{
+  height: 350px;
+  width: 200px;
+  background-color: green;
+  float:left;
+  position:absolute;bottom:90px;margin-left:0px
+}
 
+#benin2{
+  height: 175px;
+  width: 400px;
+  background-color: yellow;
+  position:absolute;bottom:265px;margin-left:200px
+}
+#benin3{
+  height: 175px;
+  width: 400px;
+  background-color: red;
+  position:absolute;bottom:90px;margin-left:200px
+}
 /* UAE */
-
+#uae {padding-bottom:90px;position:relative}
+#uae1{
+  height: 350px;
+  width: 140px;
+  background-color: red;
+  position:absolute;bottom:90px;margin-left:0px
+}
+#uae2{
+  height: 110px;
+  width: 500px;
+  background-color: green;
+  position:absolute;bottom:330px;margin-left:140px
+}
+#uae3{
+  height: 110px;
+  width: 500px;
+  background-color:black;
+  position:absolute;bottom:90px;margin-left:140px
+}
 /* Denmark */
+#denmark {padding-bottom:90px;position:relative}
 
+#denmark1{
+  height: 350px;
+  width: 800px;
+  background-color: red;
+  position:absolute;bottom:90px;margin-left:0px
+}
+#denmark2{
+  height: 350px;
+  width: 60px;
+  background-color: white;
+  position:absolute;bottom:90px;margin-left:150px
+}
+#denmark3{
+  height: 60px;
+  width: 800px;
+  background-color: white;
+  position:absolute;bottom:200px;margin-left:0px;
+}
 /* Norway */
-
+#norway {padding-bottom:90px;position:relative}
+#norway1{
+  height: 350px;
+  width: 800px;
+  background-color: red;
+  position:absolute;bottom:90px;margin-left:0px
+}
+#norway2{
+  height: 350px;
+  width: 60px;
+  background-color: white;
+  position:absolute;bottom:90px;margin-left:150px
+}
+#norway3{
+  height: 60px;
+  width: 800px;
+  background-color: white;
+  position:absolute;bottom:200px;margin-left:0px;
+}
 /* Greece */
+#greece {padding-bottom:90px;position:relative}
+#greece1{
+  height: 50px;
+  width: 800px;
+  background-color: blue;
+  position:absolute;bottom:370px;margin-left:0px
+}
+#greece2{
+  height: 50px;
+  width: 800px;
+  background-color: blue;
+  position:absolute;bottom:270px;margin-left:0px
+}
 
-
-
-
+#greece3{
+  height: 50px;
+  width: 800px;
+  background-color: blue;
+  position:absolute;bottom:170px;margin-left:0px
+}
+#greece4{
+  height: 50px;
+  width: 800px;
+  background-color: blue;
+  position:absolute;bottom:70px;margin-left:0px
+}
+#greece5{
+  height: 30px;
+  width: 800px;
+  background-color: blue;
+  position:absolute;bottom:0px;margin-left:0px
+}
+#greece6{
+  height: 200px;
+  width: 250px;
+  background-color: blue;
+  position:absolute;bottom:220px;margin-left:0px
+}
+#greece7{
+  height: 50px;
+  width: 250px;
+  background-color: white;
+  position:absolute;bottom:270px;margin-left:0px
+}
+#greece8{
+  height: 250px;
+  width: 50px;
+  background-color: white;
+  position:absolute;bottom:170px;margin-left:100px
+}
